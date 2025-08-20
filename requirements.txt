@@ -7,8 +7,5 @@ Pillow==11.3.0
 scikit-learn==1.5.2
 xgboost==2.1.1
 shap==0.46.0
-<<<<<<< HEAD
 joblib==1.4.2
-=======
 joblib==1.4.2
->>>>>>> 88505abdb704a8310cc2aac47f7501c5ff670aa5
