@@ -1,10 +1,10 @@
-joblib==1.4.2
-matplotlib==3.10.5
-numpy==2.3.2
+streamlit==1.45.1
 pandas==2.3.1
+numpy==2.3.2
+matplotlib==3.10.5
+seaborn==0.13.2
 Pillow==11.3.0
 scikit-learn==1.5.2
-seaborn==0.13.2
-shap==0.46.0
-streamlit==1.45.1
 xgboost==2.1.1
+shap==0.46.0
+joblib==1.4.2
