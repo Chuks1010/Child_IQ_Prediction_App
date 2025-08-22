@@ -63,7 +63,7 @@ with st.sidebar.form("input_form"):
     educ_cat = st.number_input(
         "Education Category",
         min_value=1, max_value=4, value=1,
-        help="Education category (1=Primary, 2=Secondary, 3=College, 4=Postgraduate)."
+        help="Education category (1=less than HS, 2=HS grad, 3=some college, 4=college grad)."
     )
 
     mom_age_group = st.selectbox(
